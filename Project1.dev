@@ -1,7 +1,7 @@
 [Project]
-FileName=Project2.dev
-Name=Project2
-Type=0
+FileName=Project1.dev
+Name=Project1
+Type=1
 Ver=2
 ObjFiles=
 Includes=
@@ -12,7 +12,7 @@ MakeIncludes=
 Compiler=
 CppCompiler=
 Linker=
-IsCpp=1
+IsCpp=0
 Icon=
 ExeOutput=
 ObjectOutput=
